@@ -7,10 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
-<a href="https://www.linkedin.com/in/linus-olofsson-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/github/stars/LinusOlofsson-maker?label=Stars" alt="stars">
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3LinusOlofsson-maker&longCache=true"/> 
+<a href="https://www.linkedin.com/in/linus-olofsson-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/github/stars/LinusOlofsson-maker?label=Stars" alt="stars"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LinusOlofsson-maker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 
 <!--
