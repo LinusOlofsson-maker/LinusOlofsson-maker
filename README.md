@@ -1,5 +1,5 @@
 ### Hi there 👋
-unique-visit-count de](https://profile-counter.glitch.me/{LinusOlofsson-maker}/count.svg)
+![](https://profile-counter.glitch.me/{Visitor CountLinusOlofsson-maker}/count.svg)
 
 <!--
 **LinusOlofsson-maker/LinusOlofsson-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
