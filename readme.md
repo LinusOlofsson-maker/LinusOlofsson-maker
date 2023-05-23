@@ -1,3 +1,8 @@
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) 
 ---
 <a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
@@ -9,8 +14,7 @@
 ---
 <a href="https://www.linkedin.com/in/linus-olofsson-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/github/stars/LinusOlofsson-maker?label=Stars" alt="stars"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LinusOlofsson-maker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--
 **LinusOlofsson-maker/LinusOlofsson-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
