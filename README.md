@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker)
+![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 <!--
 **LinusOlofsson-maker/LinusOlofsson-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
