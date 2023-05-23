@@ -1,5 +1,5 @@
 ### Hi there 👋
-+![Visitor Count](https://profile-counter.glitch.me/{Visitor CountLinusOlofsson-maker}/count.svg)
+![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker)
 
 <!--
 **LinusOlofsson-maker/LinusOlofsson-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
