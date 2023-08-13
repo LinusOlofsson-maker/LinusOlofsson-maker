@@ -5,7 +5,7 @@
 
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) 
 ---
-<a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
