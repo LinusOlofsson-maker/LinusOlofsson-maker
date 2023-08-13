@@ -25,6 +25,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
 <!--END_SECTION:waka-->
 ---
 <a href="https://www.linkedin.com/in/linus-olofsson-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/github/stars/LinusOlofsson-maker?label=Stars" alt="stars"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LinusOlofsson-maker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
