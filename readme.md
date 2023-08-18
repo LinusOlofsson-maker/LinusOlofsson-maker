@@ -10,9 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-190-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20thousand%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2023 18:38:59 UTC
+ Last Updated on 18/08/2023 18:38:57 UTC
 <!--END_SECTION:waka-->
 ---
 <a href="https://www.linkedin.com/in/linus-olofsson-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/github/stars/LinusOlofsson-maker?label=Stars" alt="stars"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LinusOlofsson-maker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
