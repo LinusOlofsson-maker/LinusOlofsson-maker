@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-190-blue)
 
@@ -24,12 +24,62 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 19/08/2023 09:24:19 UTC
+```text
+🌞 Morning                42 commits          ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌆 Daytime                71 commits          █████████████░░░░░░░░░░░░   52.99 % 
+🌃 Evening                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Tuesday                  50 commits          █████████░░░░░░░░░░░░░░░░   37.31 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Thursday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Sunday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+C#                       2 hrs 57 mins       █████████████░░░░░░░░░░░░   52.20 % 
+Python                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Visual Studio            3 hrs 45 mins       █████████████████░░░░░░░░   66.17 % 
+PyCharmCore              1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.83 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ███████████████████░░░░░░   75.00 % 
+JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/08/2023 09:39:21 UTC
 <!--END_SECTION:waka-->
 
 
