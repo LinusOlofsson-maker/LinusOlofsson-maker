@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-273-blue)
 
@@ -55,14 +55,15 @@ Sunday                   26 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       2 hrs 57 mins       █████████████░░░░░░░░░░░░   52.20 % 
-Python                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.88 % 
-Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Python                   3 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.12 % 
+C#                       2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
+Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 45 mins       █████████████████░░░░░░░░   66.17 % 
-PyCharmCore              1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.83 % 
+PyCharmCore              3 hrs 45 mins       ████████████░░░░░░░░░░░░░   50.00 % 
+Visual Studio            3 hrs 45 mins       ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +80,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2023 18:38:48 UTC
+ Last Updated on 20/08/2023 18:39:02 UTC
 <!--END_SECTION:waka-->
 
 
