@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-273-blue)
 
@@ -62,8 +62,8 @@ Ezhil                    1 min               ░░░░░░░░░░░�
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharmCore              3 hrs 45 mins       ████████████░░░░░░░░░░░░░   50.00 % 
 Visual Studio            3 hrs 45 mins       ████████████░░░░░░░░░░░░░   50.00 % 
+PyCharmCore              3 hrs 45 mins       ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 18:39:02 UTC
+ Last Updated on 21/08/2023 18:39:01 UTC
 <!--END_SECTION:waka-->
 
 
