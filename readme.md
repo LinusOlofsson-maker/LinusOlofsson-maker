@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-273-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20thousand%20lines%20of%20code-blue)
 
@@ -55,12 +55,10 @@ Sunday                   26 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ████████████████████████░   96.27 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              1 hr 50 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2023 18:38:59 UTC
+ Last Updated on 27/08/2023 18:38:56 UTC
 <!--END_SECTION:waka-->
 
 
