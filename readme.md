@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 49.9 kB Used in GitHub's Storage 
+> 📦 49.8 kB Used in GitHub's Storage 
  > 
 > 🏆 77 Contributions in the Year 2023
  > 
@@ -75,7 +75,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2023 18:40:04 UTC
+ Last Updated on 04/10/2023 18:40:11 UTC
 <!--END_SECTION:waka-->
 
 
