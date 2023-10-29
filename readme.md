@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,8 +19,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 49.9 kB Used in GitHub's Storage 
- > 
-> 🏆 77 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -55,12 +53,12 @@ Sunday                   26 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       ██████████████████████░░░   88.67 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   4 hrs 19 mins       ██████████████████████░░░   88.51 % 
+Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-PyCharmCore              2 hrs 51 mins       █████████████████████████   100.00 % 
+PyCharmCore              4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 18:38:56 UTC
+ Last Updated on 29/10/2023 18:38:52 UTC
 <!--END_SECTION:waka-->
 
 
