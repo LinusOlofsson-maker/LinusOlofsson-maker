@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,6 +19,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 49.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -75,7 +77,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2023 18:38:52 UTC
+ Last Updated on 30/10/2023 18:39:26 UTC
 <!--END_SECTION:waka-->
 
 
