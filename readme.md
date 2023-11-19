@@ -55,10 +55,11 @@ Sunday                   26 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             ██████████████████████░░░   88.93 % 
+Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +76,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 18:38:51 UTC
+ Last Updated on 19/11/2023 18:38:53 UTC
 <!--END_SECTION:waka-->
 
 
