@@ -20,6 +20,8 @@
 
 > 📦 49.9 kB Used in GitHub's Storage 
  > 
+> 🏆 77 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -73,7 +75,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 18:39:10 UTC
+ Last Updated on 30/11/2023 18:40:06 UTC
 <!--END_SECTION:waka-->
 
 
