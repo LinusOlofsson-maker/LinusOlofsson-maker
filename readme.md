@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,11 +55,11 @@ Sunday                   26 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   50 mins             █████████████████████████   99.31 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   4 hrs 44 mins       █████████████████████████   99.88 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-PyCharm                  50 mins             █████████████████████████   100.00 % 
+PyCharm                  4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +76,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2024 18:38:41 UTC
+ Last Updated on 03/03/2024 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 
