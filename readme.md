@@ -20,8 +20,6 @@
 
 > 📦 49.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -55,10 +53,10 @@ Sunday                   26 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 23 mins       █████████████████████████   100.00 % 
+Python                   3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 23 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +73,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2024 18:38:48 UTC
+ Last Updated on 12/03/2024 18:38:43 UTC
 <!--END_SECTION:waka-->
 
 
