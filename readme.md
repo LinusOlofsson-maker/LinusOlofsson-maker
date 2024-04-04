@@ -5,7 +5,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 <body>
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LinusOlofsson-maker)
+
+Hi there 👋 [![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-maker)] [![visitors](https://visitor-badge.laobi.icu/badge?page_id=LinusOlofsson-maker)]
+</br>
 ---
 <a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
