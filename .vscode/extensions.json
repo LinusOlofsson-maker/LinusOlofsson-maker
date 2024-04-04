@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "pranaygp.vscode-css-peek"
+        "pranaygp.vscode-css-peek",
+        "abusaidm.html-snippets"
     ]
 }
