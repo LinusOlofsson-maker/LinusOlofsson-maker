@@ -17,20 +17,11 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20thousand%20lines%20of%20code-blue)
-
-<br>
-	
-<div>
-	<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
-</div>
-
-<br>
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,21 +36,21 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ████████░░░░░░░░░░░░░░░░░   31.34 % 
-🌆 Daytime                71 commits          █████████████░░░░░░░░░░░░   52.99 % 
-🌃 Evening                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌞 Morning                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌆 Daytime                96 commits          ███████████████░░░░░░░░░░   58.90 % 
+🌃 Evening                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Tuesday                  50 commits          █████████░░░░░░░░░░░░░░░░   37.31 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Thursday                 33 commits          ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Sunday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Tuesday                  50 commits          ████████░░░░░░░░░░░░░░░░░   30.67 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Thursday                 62 commits          ██████████░░░░░░░░░░░░░░░   38.04 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Sunday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 ```
 
 
@@ -81,8 +72,9 @@ Visual Studio            2 mins              █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ███████████████████░░░░░░   75.00 % 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -92,7 +84,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2024 18:38:50 UTC
+ Last Updated on 04/04/2024 18:38:47 UTC
 <!--END_SECTION:waka-->
 
 
