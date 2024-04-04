@@ -3,7 +3,7 @@
 
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LinusOlofsson-maker)
 
-<link rel="stylesheet" href="stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
 	<div>
 		<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
 	</div>
