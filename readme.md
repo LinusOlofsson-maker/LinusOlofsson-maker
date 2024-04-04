@@ -17,9 +17,9 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20thousand%20lines%20of%20code-blue)
 <html>
 	<link rel="stylesheet" type="text/css" href="stylesheet.css" />
-		<div>
-			<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
-		</div>
+	<div>
+		<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
+	</div>
 </html>
 </br>
 **🐱 My GitHub Data** 
