@@ -5,8 +5,8 @@
     padding: 7px;
     text-align: center;
     outline: none;
-    text-decoration: none !important;
-    color: #ffffff !important;
+    text-decoration: none ; /*!important*/
+    color: #ffffff ;/*!important*/
     width: 200px;
     height: 52px;
     border-radius: 16px;
