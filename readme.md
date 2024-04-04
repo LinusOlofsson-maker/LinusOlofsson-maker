@@ -1,9 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<meta charset="UTF-8">
 <body>
 
 Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LinusOlofsson-maker)
