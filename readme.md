@@ -1,6 +1,10 @@
 
-
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<body>
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LinusOlofsson-maker)
 ---
 <a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
@@ -15,15 +19,15 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20thousand%20lines%20of%20code-blue)
-```
-<html>
-	<link rel="stylesheet" type="text/css" href="stylesheet.css" />
-		<div>
-			<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
-		</div>
-	</br>
-</html>
-```
+
+
+	
+<div>
+	<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
+</div>
+</br>
+
+
 **🐱 My GitHub Data** 
 
 > 📦 49.9 kB Used in GitHub's Storage 
@@ -98,7 +102,8 @@ JavaScript               1 repo              ██████░░░░░�
 <a href="https://www.linkedin.com/in/linus-olofsson-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/github/stars/LinusOlofsson-maker?label=Stars" alt="stars"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LinusOlofsson-maker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 
-
+</body>
+</html>
 <!--
 **LinusOlofsson-maker/LinusOlofsson-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
