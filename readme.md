@@ -11,21 +11,6 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <br>
 	<a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-#Python
-	friends =  [
-	{"name": "John", "surname": "Doe", "age": 26},
-	{"name": "Jane", "surname": "Doe", "age": 28},
-	{"name": "Adam", "surname": "Smith", "age": 30},
-	{"name": "Michael", "surname": "Jones", "age": 28}
-	]
-
-	print(
-	sorted(
-		friends,
-		key=lambda friend:
-		(friend["age"], friend["surname"], friend["name"])
-	)
-	)
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
