@@ -3,12 +3,11 @@
 
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LinusOlofsson-maker) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LinusOlofsson-maker)
 
-<link rel="stylesheet" type="text/css" href="stylesheet.css" />
-	<div>
-		<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
-	</div>
+<div>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+	<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linus-olofsson-" target="_blank">Connect with  me on LinkedIn</a>
+</div>
 
-</br>
 
 ---
 <a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
