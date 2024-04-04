@@ -5,7 +5,8 @@
     padding: 7px;
     text-align: center;
     outline: none;
-    text-decoration: none ; /*!important*/
+    text-decoration: none ;
+    text-decoration-thickness: bold; /*!important*/
     color: #ffffff ;/*!important*/
     width: 200px;
     height: 52px;
