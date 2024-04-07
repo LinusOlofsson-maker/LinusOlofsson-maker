@@ -19,7 +19,7 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.7%20thousand%20lines%20of%20code-blue)
 
@@ -60,13 +60,15 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 38 mins        ████████████████████████░   97.40 % 
-C#                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   4 hrs 37 mins       ████████████████████████░   95.50 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 38 mins        ████████████████████████░   97.40 % 
-Visual Studio            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+PyCharm                  4 hrs 47 mins       █████████████████████████   99.10 % 
+Visual Studio            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +86,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2024 18:38:47 UTC
+ Last Updated on 07/04/2024 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 
