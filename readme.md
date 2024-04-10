@@ -17,7 +17,7 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
@@ -60,15 +60,14 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   5 hrs 53 mins       ████████████████████████░   95.40 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Python                   5 hrs 17 mins       ████████████████████████░   94.31 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 7 mins        █████████████████████████   99.29 % 
-Visual Studio            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+PyCharm                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +85,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2024 18:38:40 UTC
+ Last Updated on 10/04/2024 19:00:13 UTC
 <!--END_SECTION:waka-->
 
 
