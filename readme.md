@@ -17,6 +17,8 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.7%20thousand%20lines%20of%20code-blue)
@@ -83,7 +85,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 18:38:40 UTC
+ Last Updated on 12/04/2024 18:41:53 UTC
 <!--END_SECTION:waka-->
 
 
