@@ -17,7 +17,9 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2053%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.7%20thousand%20lines%20of%20code-blue)
 
@@ -31,6 +33,43 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌆 Daytime                96 commits          ███████████████░░░░░░░░░░   58.90 % 
+🌃 Evening                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Tuesday                  50 commits          ████████░░░░░░░░░░░░░░░░░   30.67 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Thursday                 62 commits          ██████████░░░░░░░░░░░░░░░   38.04 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Sunday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   2 hrs 18 mins       ████████████████████████░   95.15 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+PyCharm                  2 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -46,7 +85,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:57:52 UTC
+ Last Updated on 15/04/2024 18:39:27 UTC
 <!--END_SECTION:waka-->
 
 
