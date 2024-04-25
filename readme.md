@@ -27,8 +27,6 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 
 > 📦 50.0 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -83,7 +81,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 18:38:50 UTC
+ Last Updated on 25/04/2024 18:38:47 UTC
 <!--END_SECTION:waka-->
 
 
