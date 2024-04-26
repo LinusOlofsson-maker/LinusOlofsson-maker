@@ -27,6 +27,8 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 
 > 📦 50.0 kB Used in GitHub's Storage 
  > 
+> 🏆 29 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -60,10 +62,10 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +83,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2024 18:38:47 UTC
+ Last Updated on 26/04/2024 18:38:50 UTC
 <!--END_SECTION:waka-->
 
 
