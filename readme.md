@@ -17,7 +17,7 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,8 +26,6 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 **🐱 My GitHub Data** 
 
 > 📦 50.0 kB Used in GitHub's Storage 
- > 
-> 🏆 29 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -83,7 +81,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2024 18:38:50 UTC
+ Last Updated on 27/04/2024 18:39:26 UTC
 <!--END_SECTION:waka-->
 
 
