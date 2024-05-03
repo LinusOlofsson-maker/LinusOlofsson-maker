@@ -17,7 +17,7 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusOlofsson-maker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,14 +60,14 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   25 mins             ███████████████████░░░░░░   75.28 % 
-Text                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   24 mins             ███████████████████░░░░░░   74.71 % 
+Text                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-PyCharm                  34 mins             █████████████████████████   100.00 % 
+PyCharm                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 18:39:29 UTC
+ Last Updated on 03/05/2024 18:39:32 UTC
 <!--END_SECTION:waka-->
 
 
