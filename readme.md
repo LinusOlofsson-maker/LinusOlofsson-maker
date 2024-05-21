@@ -25,7 +25,7 @@ Hi there👋 ![profile views](https://komarev.com/ghpvc/?username=LinusOlofsson-
 
 **🐱 My GitHub Data** 
 
-> 📦 49.9 kB Used in GitHub's Storage 
+> 📦 50.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,7 +81,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinusOlofsson-maker/LinusOlofsson-maker/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2024 18:40:02 UTC
+ Last Updated on 21/05/2024 18:39:51 UTC
 <!--END_SECTION:waka-->
 
 
